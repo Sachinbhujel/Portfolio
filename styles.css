@@ -305,6 +305,10 @@ hr {
   width: 100%;
 }
 
+.project_div img:hover{
+  transform: scale(-1);
+}
+
 .project_info_div {
   padding: 10px;
 }
