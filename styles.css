@@ -434,6 +434,10 @@ hr {
   font-weight: 500;
 }
 
+a{
+  text-decoration: none;
+}
+
 @media (width>850px) {
   .app {
     margin-top: 50px;
