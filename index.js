@@ -107,7 +107,7 @@ function closeButton() {
 
 function handleMenu() {
   const sideNavBar = document.getElementById("sideNavBar");
-  if (sideNavBar.style.display === "none") {
+  if (sideNavBar.style.display === "none" || sideNavBar.style.display === "") {
     sideNavBar.style.display = "flex";
   } else {
     sideNavBar.style.display = "none";
