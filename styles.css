@@ -118,6 +118,7 @@ hr {
   font-family: sans-serif;
   font-size: 38px;
   font-weight: 700;
+  letter-spacing: 1.2px;
 }
 
 .author_info span {
@@ -158,10 +159,10 @@ hr {
 .experience_div {
   cursor: pointer;
   display: flex;
-  align-items: center;
 }
 
 .experience_div img {
+  margin-top: -4px;
   width: 40px;
   height: 40px;
   object-fit: cover;
