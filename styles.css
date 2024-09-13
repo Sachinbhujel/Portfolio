@@ -6,6 +6,7 @@ html {
 * {
   margin: 0;
   padding: 0;
+  font-family: sans-serif;
 }
 
 .app {
@@ -115,14 +116,12 @@ hr {
 }
 
 .author_info h1 {
-  font-family: sans-serif;
   font-size: 38px;
   font-weight: 700;
   letter-spacing: 1.2px;
 }
 
 .author_info span {
-  font-family: sans-serif;
   font-size: 18px;
   font-weight: 400;
   cursor: pointer;
@@ -133,15 +132,13 @@ hr {
 }
 
 .about_div h2 {
-  font-family: sans-serif;
   font-size: 21px;
 }
 
 .about_div p {
   margin-top: 4px;
   font-size: 15px;
-  font-family: sans-serif;
-  color: #7d7d7d;
+  color: rgb(153, 153, 153);
   margin-bottom: 20px;
 }
 
@@ -151,7 +148,6 @@ hr {
 
 .work_title {
   margin-top: 46px;
-  font-family: sans-serif;
   font-size: 21px;
   margin-bottom: 20px;
 }
@@ -188,7 +184,6 @@ hr {
 }
 
 .role_title {
-  font-family: sans-serif;
   font-size: 13px;
   margin-top: -2px;
 }
@@ -200,7 +195,6 @@ hr {
 }
 
 .role_div h4 {
-  font-family: sans-serif;
   opacity: 0.9;
   font-size: 15.1px;
 }
@@ -222,14 +216,12 @@ hr {
 }
 
 #placement_experience_div span {
-  font-family: sans-serif;
   font-size: 14px;
   font-weight: 400;
   letter-spacing: 1.05px;
 }
 
 #placement_experience_div2 span {
-  font-family: sans-serif;
   font-size: 14px;
   font-weight: 400;
   letter-spacing: 1.05px;
@@ -237,7 +229,6 @@ hr {
 
 .placement_date_div p {
   color: #999999;
-  font-family: sans-serif;
   font-size: 14.6px;
 }
 
@@ -249,7 +240,6 @@ hr {
 
 .skills_div b {
   color: white;
-  font-family: sans-serif;
   font-size: 12.3px;
   font-weight: 400;
   padding: 5px;
@@ -270,7 +260,6 @@ hr {
 }
 
 .myProjects_title h1 {
-  font-family: sans-serif;
   border-radius: 6px;
   letter-spacing: 1.2px;
   font-size: 15px;
@@ -318,11 +307,9 @@ hr {
   margin-top: 6px;
   font-size: 16px;
   margin-bottom: 4.7px;
-  font-family: sans-serif;
 }
 
 .project_div span {
-  font-family: sans-serif;
   font-size: 13px;
   font-weight: 400;
 }
@@ -330,7 +317,6 @@ hr {
 .project_div p {
   font-size: 14px;
   margin-top: 10px;
-  font-family: sans-serif;
   color: #999999;
 }
 
@@ -343,7 +329,6 @@ hr {
 
 .tech_stack_used b {
   background: #e9ecef;
-  font-family: sans-serif;
   font-size: 10.5px;
   padding: 3px;
   padding-left: 10px;
@@ -362,7 +347,6 @@ hr {
 .project_source b {
   padding: 6px;
   color: white;
-  font-family: sans-serif;
   font-size: 11px;
   border-radius: 6px;
   background: #5e30eb;
@@ -376,7 +360,6 @@ hr {
 }
 
 .contact_div h1 {
-  font-family: sans-serif;
   border-radius: 6px;
   letter-spacing: 1.2px;
   font-size: 15px;
@@ -395,14 +378,12 @@ hr {
   font-size: 30px;
   text-align: center;
   margin-top: 9px;
-  font-family: sans-serif;
   font-weight: bold;
 }
 
 .contact_div p {
   color: #999999;
   text-align: center;
-  font-family: sans-serif;
   font-size: 16px;
   margin-top: 12px;
   letter-spacing: 1.1px;
@@ -435,7 +416,6 @@ hr {
   text-decoration: none;
   color: black;
   cursor: pointer;
-  font-family: sans-serif;
   font-weight: 500;
 }
 
