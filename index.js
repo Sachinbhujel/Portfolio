@@ -82,22 +82,6 @@ function education_div() {
   }
 }
 
-/*document.getElementById("home-link").addEventListener("click", function () {
-  document.body.scrollIntoView({ behavior: "smooth" });
-});
-
-document.getElementById("wysiwyg-link").addEventListener("click", function () {
-  document.getElementById("wysiwyg").scrollIntoView({ behavior: "smooth" });
-});
-
-document.getElementById("code-link").addEventListener("click", function () {
-  document.getElementById("code").scrollIntoView({ behavior: "smooth" });
-});
-
-document.getElementById("contact-link").addEventListener("click", function () {
-  document.getElementById("contact").scrollIntoView({ behavior: "smooth" });
-});*/
-
 function closeButton() {
   const sideNavBar = document.getElementById("sideNavBar");
   sideNavBar.style.display = "none";
