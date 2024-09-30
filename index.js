@@ -62,23 +62,19 @@ function darkMode() {
 
 function experience_div() {
   var element = document.getElementById("placement_experience_div");
-  if (element.style.display === "flex") {
-    document.getElementById("arrow1").style.display = "flex";
-    element.style.display = "none";
-  } else {
-    document.getElementById("arrow1").style.display = "none";
+if (element.style.display === "none" || element.style.display === "") {
     element.style.display = "flex";
+  } else {
+    element.style.display = "none";
   }
 }
 
 function education_div() {
   var element = document.getElementById("placement_experience_div2");
-  if (element.style.display === "flex") {
-    document.getElementById("arrow2").style.display = "flex";
-    element.style.display = "none";
-  } else {
-    document.getElementById("arrow2").style.display = "none";
+ if (element.style.display === "none" || element.style.display === "") {
     element.style.display = "flex";
+  } else {
+    element.style.display = "none";
   }
 }
 
