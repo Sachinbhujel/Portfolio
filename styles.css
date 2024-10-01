@@ -443,6 +443,11 @@ a {
   .app {
     width: 100%;
   }
+  #projects{
+    margin: auto;
+    width: 92%;
+    margin-top: 70px;
+  }
 }
 
 @media (width<500px) {
